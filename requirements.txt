@@ -1,0 +1,5 @@
+bmtrain==0.2.3.post2
+model-center==1.0.3
+datasets==2.8.0
+torch==1.12.1
+transformers==4.30.2
